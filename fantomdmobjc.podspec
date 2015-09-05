@@ -15,7 +15,6 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "shuurai" => "hyperfan@hotmail.com" }
   s.source           = { :git => "https://github.com/Shuurai/fantomdmobjc.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/fantomdigital'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true

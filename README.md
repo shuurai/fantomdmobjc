@@ -24,6 +24,11 @@ pod "fantomdmobjc"
 
 shuurai, hyperfan@hotmail.com
 
+
+## FTDownloadManager
+
+
+
 ## License
 
 fantomdmobjc is available under the MIT license. See the LICENSE file for more info.

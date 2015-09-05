@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'fantomdmobjc_Example', :exclusive => true do
+  pod "fantomdmobjc", :path => "../"
+end
+
+target 'fantomdmobjc_Tests', :exclusive => true do
+  pod "fantomdmobjc", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+end

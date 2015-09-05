@@ -5,6 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/fantomdmobjc.svg?style=flat)](http://cocoapods.org/pods/fantomdmobjc)
 [![Platform](https://img.shields.io/cocoapods/p/fantomdmobjc.svg?style=flat)](http://cocoapods.org/pods/fantomdmobjc)
 
+## Tagline
+
+'fantomdmobjc' is a download manager written in ObjC that downloads multiple files safely.
+
+## Description
+
+This library provides a static library to download multiple files from the web at the same time. It is designed with concurrency and thread safety in mind, and asynchronous. fantomDMOBJC uses NSOperation to efficiently manage connection queues.
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -27,7 +35,7 @@ shuurai, hyperfan@hotmail.com
 
 ## FTDownloadManager
 
-
+TBD
 
 ## License
 

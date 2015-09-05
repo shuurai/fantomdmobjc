@@ -8,6 +8,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                         This library provides a static library to download multiple files from the web at the
                         same time. It is designed with concurrency and thread safety in mind, and asynchronous.
+                        fantomDMOBJC uses NSOperation to efficiently manage connection queues.
                        DESC
 
   s.homepage         = "https://github.com/Shuurai/fantomdmobjc"
